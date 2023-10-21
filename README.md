@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://joelks100.github.io/3-ColumnSolution/)
+- Live Site URL: [https://joelks100.github.io/3-ColumnSolution/}
 
 ### Built with
 
